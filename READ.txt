@@ -1,0 +1,21 @@
+AT THE END OF THE PAGE PUT A LINK SAYING "WITH LOVE FROM KOLA" WHICH LINK TO THE GITHUB LINK OF THE PROJECT
+
+I AM WORKING WITH API
+API DOWNLOAD SITE - https://openweathermap.org/api
+Login Detials for https://openweathermap.org/api
+Username - unchartedgreek
+Email - kola2798@gmail.com
+Password - WeatherUG@2795
+company  - yet to be established
+purpose - Others
+
+GOOGLE DRIVE LINK
+https://drive.google.com/file/d/1VXoCumUwizDTRQa9wBd5s1z1JDfIh6yE/view
+
+DEMO SITE WITH DOWNLOAD CODE OPTIONS - https://codingnepalweb.com/demos/weather-app-in-javascript/
+
+How to add Degree Symbol & Other Temperature
+Degree Symbol - &#176;
+Degree + Celcuis - &#8451;
+Degree + Fahrenheit - &#8457;
+Kelvin - &#8490;
